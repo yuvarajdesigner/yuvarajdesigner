@@ -4,9 +4,6 @@ Tip: Your profile README shows when a repo named exactly your username exists: y
 -->
 
 <!-- Header Banner (local, reliable) -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="Yuvaraj | Lead Frontend & Full-Stack" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Yuvaraj — Lead Frontend Developer | Full-Stack Developer | Problem Solver | Tech Enthusiast</h1>
 
