@@ -3,9 +3,9 @@ Profile README for: github.com/yuvarajdesigner
 Tip: Your profile README shows when a repo named exactly your username exists: yuvarajdesigner/yuvarajdesigner
 -->
 
-<!-- Header Banner -->
+<!-- Header Banner (local, reliable) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Yuvaraj%20%7C%20Lead%20Frontend%20%26%20Full-Stack&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:8b5cf6&fontColor=ffffff" alt="Banner" />
+  <img src="./assets/banner.svg" alt="Yuvaraj | Lead Frontend & Full-Stack" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Yuvaraj — Lead Frontend Developer | Full-Stack Developer | Problem Solver | Tech Enthusiast</h1>
@@ -18,8 +18,8 @@ Tip: Your profile README shows when a repo named exactly your username exists: y
 
 <p align="center">
   <a href="https://iamyuvaraj.tech" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-iamyuvaraj.tech-%23ff6a00?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:yuvarajdesigner@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yuvarajdesigner/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yuva.excel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yuvarajmernstackdev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yuvarajdesigner&style=for-the-badge&color=blueviolet&label=Views">
 </p>
 
@@ -64,7 +64,7 @@ I specialize in building scalable, high-performance web applications with a stro
 
 ## 😄 Pronouns
 
-You can address me by my name — <b>Yuvaraj</b>. If you prefer pronouns, <b>he/him</b> is fine, but “Yuvaraj” works best.
+You can address me as <b>Yuvaraj</b> (he/him). I prefer being called by my name — it keeps things simple and personal.
 
 ---
 
@@ -77,8 +77,8 @@ I’m a vibe coder — I love crafting code to a musical groove, often composing
 ## 🤝 Connect
 
 <p>
-  <a href="mailto:yuvarajdesigner@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yuvarajdesigner%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/yuvarajdesigner/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yuvaraj-0A66C2?style=flat&logo=linkedin"></a>
+  <a href="mailto:yuva.excel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yuva.excel%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/yuvarajmernstackdev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yuvaraj-0A66C2?style=flat&logo=linkedin"></a>
   <a href="https://iamyuvaraj.tech" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-iamyuvaraj.tech-%23ff6a00?style=flat&logo=google-chrome&logoColor=white"></a>
 </p>
 
